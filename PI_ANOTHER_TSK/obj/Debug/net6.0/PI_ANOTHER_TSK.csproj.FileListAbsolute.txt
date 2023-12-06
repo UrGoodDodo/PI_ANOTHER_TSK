@@ -1,0 +1,14 @@
+C:\Users\Кирилл\Desktop\Новая папка (2)\PI_ANOTHER_TSK\PI_ANOTHER_TSK\bin\Debug\net6.0\PI_ANOTHER_TSK.exe
+C:\Users\Кирилл\Desktop\Новая папка (2)\PI_ANOTHER_TSK\PI_ANOTHER_TSK\bin\Debug\net6.0\PI_ANOTHER_TSK.deps.json
+C:\Users\Кирилл\Desktop\Новая папка (2)\PI_ANOTHER_TSK\PI_ANOTHER_TSK\bin\Debug\net6.0\PI_ANOTHER_TSK.runtimeconfig.json
+C:\Users\Кирилл\Desktop\Новая папка (2)\PI_ANOTHER_TSK\PI_ANOTHER_TSK\bin\Debug\net6.0\PI_ANOTHER_TSK.dll
+C:\Users\Кирилл\Desktop\Новая папка (2)\PI_ANOTHER_TSK\PI_ANOTHER_TSK\bin\Debug\net6.0\PI_ANOTHER_TSK.pdb
+C:\Users\Кирилл\Desktop\Новая папка (2)\PI_ANOTHER_TSK\PI_ANOTHER_TSK\obj\Debug\net6.0\PI_ANOTHER_TSK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Кирилл\Desktop\Новая папка (2)\PI_ANOTHER_TSK\PI_ANOTHER_TSK\obj\Debug\net6.0\PI_ANOTHER_TSK.AssemblyInfoInputs.cache
+C:\Users\Кирилл\Desktop\Новая папка (2)\PI_ANOTHER_TSK\PI_ANOTHER_TSK\obj\Debug\net6.0\PI_ANOTHER_TSK.AssemblyInfo.cs
+C:\Users\Кирилл\Desktop\Новая папка (2)\PI_ANOTHER_TSK\PI_ANOTHER_TSK\obj\Debug\net6.0\PI_ANOTHER_TSK.csproj.CoreCompileInputs.cache
+C:\Users\Кирилл\Desktop\Новая папка (2)\PI_ANOTHER_TSK\PI_ANOTHER_TSK\obj\Debug\net6.0\PI_ANOTHER_TSK.dll
+C:\Users\Кирилл\Desktop\Новая папка (2)\PI_ANOTHER_TSK\PI_ANOTHER_TSK\obj\Debug\net6.0\refint\PI_ANOTHER_TSK.dll
+C:\Users\Кирилл\Desktop\Новая папка (2)\PI_ANOTHER_TSK\PI_ANOTHER_TSK\obj\Debug\net6.0\PI_ANOTHER_TSK.pdb
+C:\Users\Кирилл\Desktop\Новая папка (2)\PI_ANOTHER_TSK\PI_ANOTHER_TSK\obj\Debug\net6.0\PI_ANOTHER_TSK.genruntimeconfig.cache
+C:\Users\Кирилл\Desktop\Новая папка (2)\PI_ANOTHER_TSK\PI_ANOTHER_TSK\obj\Debug\net6.0\ref\PI_ANOTHER_TSK.dll
