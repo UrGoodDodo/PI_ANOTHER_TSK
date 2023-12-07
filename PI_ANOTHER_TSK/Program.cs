@@ -18,7 +18,7 @@ class MatrixOp
         for (int i = 0; i < first.GetLength(0); i++)
         {
             for (int j = 0; j < second.GetLength(1); j++)
-            
+            }
                 for (int k = 0; k < second.GetLength(0); k++)
                 {
                     r[i, j] += first[i, k] * second[k, j]
