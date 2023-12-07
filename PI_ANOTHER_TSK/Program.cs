@@ -36,7 +36,7 @@ class MatrixOp
         {
             for (int j = 0; j < first.GetLength(1); j++) 
             {
-                t[i, j] += second[i, j]; 
+                t[i, j] += second[i, j] 
             }
         }
         return t;
