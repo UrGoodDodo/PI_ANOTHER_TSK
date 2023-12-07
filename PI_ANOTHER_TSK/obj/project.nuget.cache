@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "d8zbkuQeEEbbct9njYYt4CCUefAiU4cbsTpVXTqGxmqPW/1YGKxTSNe/ZrauILUr+/HuZBLtJO+fpIk1Hy34cA==",
+  "dgSpecHash": "kZJ4MejMmObfUGxALvxNkrEQiSpbfoCmkNxq9AjCadCm4Jh/VvW8+bwiyfzWYxdWvXDG2mw0/Py/t+VOxZfjbw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Кирилл\\Desktop\\Новая папка (2)\\PI_ANOTHER_TSK\\PI_ANOTHER_TSK\\PI_ANOTHER_TSK.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\temp\\PI_ANOTHER_TSK\\PI_ANOTHER_TSK\\PI_ANOTHER_TSK.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Huawei\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Huawei\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Huawei\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Huawei\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
   "logs": []
 }
