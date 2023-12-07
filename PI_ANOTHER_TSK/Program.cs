@@ -39,7 +39,6 @@ class MatrixOp
                 t[i, j] += second[i, j];
             }
         }
-        }
         return t;
     }
 };
