@@ -26,7 +26,7 @@ namespace MatrixOpTest
                 for (int j = 0; j < a.GetLength(1); j++)
                 {
 
-                    a[i, j] -= b[i, j];
+                    a[i, j] += b[i, j];
                 }
             }
 
@@ -62,7 +62,7 @@ namespace MatrixOpTest
                 for (int j = 0; j < a.GetLength(1); j++)
                 {
 
-                    a[i, j] += b[i, j];
+                    a[i, j] -= b[i, j];
                 }
             }
 
@@ -90,8 +90,8 @@ namespace MatrixOpTest
             var c = matrixOp.Multiple();
 
             double[,] d = new double[,] 
-              { { 0, 0 },
-                { 0, 0 } };
+              { { 44, 24 },
+                { 93, 55 } };
 
             for (int i = 0; i < c.GetLength(0); i++) 
             {
