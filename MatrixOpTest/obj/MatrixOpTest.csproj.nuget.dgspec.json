@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Кирилл\\Desktop\\Новая папка (2)\\PI_ANOTHER_TSK\\MatrixOpTest\\MatrixOpTest.csproj": {}
+    "D:\\temp\\PI_ANOTHER_TSK\\MatrixOpTest\\MatrixOpTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Кирилл\\Desktop\\Новая папка (2)\\PI_ANOTHER_TSK\\MatrixOpTest\\MatrixOpTest.csproj": {
+    "D:\\temp\\PI_ANOTHER_TSK\\MatrixOpTest\\MatrixOpTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Кирилл\\Desktop\\Новая папка (2)\\PI_ANOTHER_TSK\\MatrixOpTest\\MatrixOpTest.csproj",
+        "projectUniqueName": "D:\\temp\\PI_ANOTHER_TSK\\MatrixOpTest\\MatrixOpTest.csproj",
         "projectName": "MatrixOpTest",
-        "projectPath": "C:\\Users\\Кирилл\\Desktop\\Новая папка (2)\\PI_ANOTHER_TSK\\MatrixOpTest\\MatrixOpTest.csproj",
-        "packagesPath": "C:\\Users\\Кирилл\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Кирилл\\Desktop\\Новая папка (2)\\PI_ANOTHER_TSK\\MatrixOpTest\\obj\\",
+        "projectPath": "D:\\temp\\PI_ANOTHER_TSK\\MatrixOpTest\\MatrixOpTest.csproj",
+        "packagesPath": "C:\\Users\\Huawei\\.nuget\\packages\\",
+        "outputPath": "D:\\temp\\PI_ANOTHER_TSK\\MatrixOpTest\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "F:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Кирилл\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Huawei\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -32,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Кирилл\\Desktop\\Новая папка (2)\\PI_ANOTHER_TSK\\PI_ANOTHER_TSK\\PI_ANOTHER_TSK.csproj": {
-                "projectPath": "C:\\Users\\Кирилл\\Desktop\\Новая папка (2)\\PI_ANOTHER_TSK\\PI_ANOTHER_TSK\\PI_ANOTHER_TSK.csproj"
+              "D:\\temp\\PI_ANOTHER_TSK\\PI_ANOTHER_TSK\\PI_ANOTHER_TSK.csproj": {
+                "projectPath": "D:\\temp\\PI_ANOTHER_TSK\\PI_ANOTHER_TSK\\PI_ANOTHER_TSK.csproj"
               }
             }
           }
@@ -81,25 +77,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Кирилл\\Desktop\\Новая папка (2)\\PI_ANOTHER_TSK\\PI_ANOTHER_TSK\\PI_ANOTHER_TSK.csproj": {
+    "D:\\temp\\PI_ANOTHER_TSK\\PI_ANOTHER_TSK\\PI_ANOTHER_TSK.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Кирилл\\Desktop\\Новая папка (2)\\PI_ANOTHER_TSK\\PI_ANOTHER_TSK\\PI_ANOTHER_TSK.csproj",
+        "projectUniqueName": "D:\\temp\\PI_ANOTHER_TSK\\PI_ANOTHER_TSK\\PI_ANOTHER_TSK.csproj",
         "projectName": "PI_ANOTHER_TSK",
-        "projectPath": "C:\\Users\\Кирилл\\Desktop\\Новая папка (2)\\PI_ANOTHER_TSK\\PI_ANOTHER_TSK\\PI_ANOTHER_TSK.csproj",
-        "packagesPath": "C:\\Users\\Кирилл\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Кирилл\\Desktop\\Новая папка (2)\\PI_ANOTHER_TSK\\PI_ANOTHER_TSK\\obj\\",
+        "projectPath": "D:\\temp\\PI_ANOTHER_TSK\\PI_ANOTHER_TSK\\PI_ANOTHER_TSK.csproj",
+        "packagesPath": "C:\\Users\\Huawei\\.nuget\\packages\\",
+        "outputPath": "D:\\temp\\PI_ANOTHER_TSK\\PI_ANOTHER_TSK\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "F:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Кирилл\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Huawei\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -140,7 +132,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
